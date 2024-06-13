@@ -1,0 +1,1 @@
+This is a basic slot machine game where the user can make a deposit, choose the number of lines to bet and the amount of the bet. Each symbol displayed on the reels have multipliers to boost the value of the bet. 
